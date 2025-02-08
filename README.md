@@ -1,2 +1,3 @@
-# Generator_Password_TG
-  Bot for generating passwords in Telegram in Python
+# Telegram bot for password generation
+  Python
+  
